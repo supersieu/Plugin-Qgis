@@ -6,6 +6,6 @@
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>sogefiv1.zip</file_name>
         <author_name>Dang NGUYEN</author_name>
-        <download_url>https://anonfiles.com/F5Ycp0A2u1/sogefiv1_zip</download_url>
+        <download_url>https://github.com/supersieu/Plugin-Qgis/raw/main/sogefiv1.zip</download_url>
     </pyqgis_plugin>
 </plugins>

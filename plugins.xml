@@ -4,8 +4,8 @@
         <description>Un plugin pour manipulation API</description>
         <homepage>www.sogefi-sig.com/</homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
-        <file_name>sogefiv1.zip</file_name>
+        <file_name>sogefi.zip</file_name>
         <author_name>Dang NGUYEN</author_name>
-        <download_url>https://github.com/supersieu/Plugin-Qgis/raw/main/sogefiv1.zip</download_url>
+        <download_url>https://github.com/supersieu/Plugin-Qgis/raw/main/sogefi.zip</download_url>
     </pyqgis_plugin>
 </plugins>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="Sogefi" version="1.1">
+    <pyqgis_plugin name="Sogefi" version="1.2">
         <description>Un plugin pour manipulation API</description>
         <homepage>www.sogefi-sig.com/</homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
